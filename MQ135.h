@@ -19,7 +19,7 @@ v1.0 - First release
 #endif
 
 /// To convert readed resistance into ohms
-#define RLOAD 10.0
+#define RLOAD 1.0
 /// R0 for AIR
 #define r0Air 1
 /// R0 for CO **measured with 24hrs of exposure**
